@@ -1,5 +1,4 @@
 # Rotary-Encoder-and-PIC12F683
-'sorry for the text font it's seem github cannot generate a basic courrier text '
 
 Here's the PBP3 Pro Basic Compiler code 
   Simple Rotary Encoder program using PIC12f683 with PBP3 Pro Basic Compiler
